@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foxworth22&ver=2&hide=jupyter%20notebook,c%23,html,css,scss,less,shaderlab,hlsl,vim%20script,shell,starlark,batchfile&show_icons=true&hide_border=true&theme=shadow_green&layout=compact&exclude_repo=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foxworth22&ver=2&hide=css&show_icons=true&hide_border=true&theme=shadow_green&layout=compact&exclude_repo=)
 -->
 
 ### Skills
